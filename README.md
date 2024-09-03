@@ -62,5 +62,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 For questions or feedback, feel free to reach out to:
 
-Author: Aman Alok
+Author: Aman Alok,
 Email: amanalokchapra@gmail.com
